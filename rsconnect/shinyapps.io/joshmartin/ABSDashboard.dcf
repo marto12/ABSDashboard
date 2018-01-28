@@ -1,0 +1,13 @@
+name: ABSDashboard
+title: ABSDashboard
+username:
+account: joshmartin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 261292
+bundleId: 1191987
+url: https://joshmartin.shinyapps.io/ABSDashboard/
+when: 1516863751.32134
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data_Processing/parse5206001.R|Data_Processing/parse5232001.R|Data_Raw/5206001.xls|Data_Raw/5232001.xls
